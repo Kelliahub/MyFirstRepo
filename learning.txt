@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 "What I have learned from this course"
 
+=======
+What I have learned from this course
+
+In this course, I have learned how to use Git and GitHub, including cloning repositories, creating files, committing changes, and pushing them to GitHub. These skills help me manage my work and collaborate effectively.
+>>>>>>> Stashed changes
 In this course i have learned the basics of Git and Github, including how to clone repositories, create files, commit changes, and push updates to Github.These skills help me track my work and collaborate with others more effectively.
